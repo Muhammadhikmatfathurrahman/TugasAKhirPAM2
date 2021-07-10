@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tugas Akhir</string>
+    <string name="tEmail">Email</string>
+    <string name="tPassword">Password</string>
+    <string name="bsignin">Login</string>
+    <string name="rname">Masukkan Nama</string>
+    <string name="ralamat">Masukkan Alamat</string>
+    <string name="remail">Masukkan Email</string>
+    <string name="rpassword">Masukkan Password</string>
+    <string name="rrepassword">Masukkan Ulang Password</string>
+    <string name="btnregis">Belum terdaftar?</string>
+    <string name="btnend">Klik disini untuk lanjut berbelanja</string>
+</resources>
